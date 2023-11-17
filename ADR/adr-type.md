@@ -1,4 +1,4 @@
-# Chosen ADR Tool
+# Choosing an ADR Type
 
 ## Context
 The different decisions being made throughout this process needs to be documented in an organised manner.
