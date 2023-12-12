@@ -4,7 +4,7 @@
 How the architecture of the system will be designed.
 
 ## Decision
-Microservices architecture will be used to develop this system
+A mix of client-server and service oriented architecture will be used to develop this system
 
 #### Other possible architectures
 - Event Driven
