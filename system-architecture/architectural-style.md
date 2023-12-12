@@ -8,7 +8,7 @@ A mix of client-server and service oriented architecture will be used to develop
 
 #### Other possible architectures
 - Event Driven
-- Client-Server
+- Microservices
 
 ## Consequences
 - Advantages
