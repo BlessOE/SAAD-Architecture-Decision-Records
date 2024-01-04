@@ -21,6 +21,5 @@ A mix of client-server and service oriented architecture will be used to develop
   - This architectural style requires more resources
   - It is difficult to test and debug this architectural style globally
 
-
 ## Status
 Accepted
